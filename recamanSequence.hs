@@ -1,4 +1,4 @@
--- Assignment 2 Recaman's Sequence 
+-- Recaman's Sequence 
 -- By starting with RecaSeq it becomes easier to write the other two methods 
 
 recaSeq :: Int -> [Int]

@@ -1,4 +1,4 @@
---Assignment 3
+--Sorting and Permutaitons in Haskell
 osort :: Ord a => Char -> [a] ->[a]
 osort 'f' xs= quicksort(xs)
 osort 'b' xs = reverse (quicksort(xs))
